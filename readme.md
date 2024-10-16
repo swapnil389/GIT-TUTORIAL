@@ -51,5 +51,5 @@ Agile methodology is a project management approach that focuses on flexibility, 
 
 ![image](https://github.com/user-attachments/assets/ca302a85-c496-4803-bdb0-c0835725d3b9)
 
-<code style="color : name_color">DEVOPS</code>
+$$<code style="color : name_color">DEVOPS</code>$$
 
