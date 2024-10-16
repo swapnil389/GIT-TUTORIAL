@@ -46,3 +46,9 @@ Agile methodology is a project management approach that focuses on flexibility, 
 - Improved Collaboration: Regular communication within teams and with stakeholders.
 - Higher Quality: Continuous testing and feedback loops enhance software quality.
 - Faster Delivery: Regular, incremental releases of working software.
+
+comparison between git pull and git merge:
+
+![image](https://github.com/user-attachments/assets/ca302a85-c496-4803-bdb0-c0835725d3b9)
+
+
