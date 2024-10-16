@@ -12,12 +12,12 @@
 
 ## USES OF TOOLS :
 
-1] *GIT* > SOURCE CODE MANAEGER.
-2] *TERRAFORM* > Tool for building, changing, and versioning infrastructure safely and efficiently.
-3] *ANSIBLE* > Automates software provisioning, configuration management, and application deployment. [CONFIGURATION MANAG. TOOL]
-4] *DOCKER* > used as the container ORCHESTRAIN TOOL.
-5] *K8'S* > Open-source system for automating deployment, scaling, and management of containerized applications.
-6] *JENKINS* >  CICD / Open-source automation server for building, testing, and deploying applications.
+- 1] *GIT* > SOURCE CODE MANAEGER.
+- 2] *TERRAFORM* > Tool for building, changing, and versioning infrastructure safely and efficiently.
+- 3] *ANSIBLE* > Automates software provisioning, configuration management, and application deployment. [CONFIGURATION MANAG. TOOL]
+- 4] *DOCKER* > used as the container ORCHESTRAIN TOOL.
+- 5] *K8'S* > Open-source system for automating deployment, scaling, and management of containerized applications.
+- 6] *JENKINS* >  CICD / Open-source automation server for building, testing, and deploying applications.
 
 ## METHODOLOGIES
 
