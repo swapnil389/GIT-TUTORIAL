@@ -3,7 +3,6 @@
 ## Tools
 
 ### TOOL TO LEARN
-
 -Git 
 -Terraform
 -Ansible
